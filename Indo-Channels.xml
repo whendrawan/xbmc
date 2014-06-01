@@ -1,0 +1,91 @@
+
+<item>
+<title>[COLOR=FFFF4500]FOX 9 Twin Cities[/COLOR]</title>
+<link>http://212-57.livestream.com:8080/livestreamiphone/6396280_2598452_6551458a_1_678@71795/master.m3u8</link>
+<thumbnail>http://aulikdesignbuild.com/images/uploads/FOX9KMSP.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Metro TV[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/metrotv2</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20120824052515/logopedia/images/a/a2/Logo_Metro_TV_Elandg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]SCTV[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv:1935/mivotvjkt/sctv2</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20121226014247/logopedia/images/thumb/f/fb/SCTV_Logo.svg.png/640px-SCTV_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]ANTV[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv:1935/mivotvjkt/antv2</link>
+<thumbnail>http://www.an.tv/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Berita Satu[/COLOR]</title>
+<link>rtmp://202.73.98.251:1935/53bc9fd0d29d62b5c51848baae581d2771cad27b08748d6440c2ae6646df02e1/ playpath=mp4:eb0c8940b7a0c84812b2fd653bf99bceBERITASATU_2 swfUrl=http://live.firstmedia.com/flowplayer/js/jwplayer/jwplayer.flash.swf pageUrl=http://live.firstmedia.com/</link>
+<thumbnail>http://msgjufo.files.wordpress.com/2011/10/berita-satu-emblem5.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Trans TV[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/transtv2</link>
+<thumbnail>http://cdn.klimg.com/merdeka.com/i/w/tokoh/2013/06/24/6895/200x300/trans-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Trans 7[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/trans72</link>
+<thumbnail>http://nikolasfms.files.wordpress.com/2011/09/trans7.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]RCTI[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/rcti2</link>
+<thumbnail>http://1.bp.blogspot.com/-0IFsIcD2ocU/T9Lr0iqHnYI/AAAAAAAACCA/0Lhc9Hz2gsU/s1600/RCTI_MNC-Group.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Global TV[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/globaltv2</link>
+<thumbnail>http://www.globaltv.co.id/images/logobaru.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]MNC TV[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/mnctv2</link>
+<thumbnail>http://3.bp.blogspot.com/-t7KayLXwCB8/UaeZ1IKglXI/AAAAAAAAA70/BdY0x3LYf1g/s320/Mnc+Tv+Streaming+Online.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]TV One[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/tvone2</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/5/5b/TvOne_logo_(2010).png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Indosiar[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/indosiar2</link>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20120627061755/logopedia/images/3/39/INDOSIAR_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Daai TV[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/daaitv2</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Mivo TV[/COLOR]</title>
+<link>rtsp://cdn.mivo.tv/mivotvjkt/mivotv_480p</link>
+<thumbnail>http://jobs.startupbisnis.com/wp-content/uploads/company_logos/2014/05/Mivo-logo3-250x86.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Animal Planet[/COLOR]</title>
+<link>rtsp://173.242.117.94/d365j</link>
+<thumbnail>http://godish.com/media/24983/animal_planet_logo_2942.gif</thumbnail>
+</item>
+
